@@ -21,6 +21,7 @@
       "dom"
     ]
   },
+  "//": "tsconfig.json",
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
